@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<br/><a href='C:\Users\gs-2181\eclipse-workspace\TaskPropin\.\target\surefire-reports\screenshots\TC_validateoutputDateInFormat_1id1di8uhzvrw.png'>View Screenshot</a><br/>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28158" started-at="2020-05-27T13:04:52 IST" finished-at="2020-05-27T13:05:20 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28158" started-at="2020-05-27T13:04:52 IST" finished-at="2020-05-27T13:05:20 IST">
+      <class name="com.task.automation.test.HomeScreen">
+        <test-method status="PASS" signature="config(java.lang.String, java.lang.String)[pri:0, instance:com.task.automation.test.HomeScreen@4b1c1ea0]" name="config" is-config="true" duration-ms="152" started-at="2020-05-27T13:04:52 IST" finished-at="2020-05-27T13:04:52 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Optional name Automation ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Automation Report]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.task.automation.test.HomeScreen@4b1c1ea0]" name="beforeTest" is-config="true" duration-ms="11406" started-at="2020-05-27T13:04:52 IST" finished-at="2020-05-27T13:05:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.task.automation.test.HomeScreen@4b1c1ea0]" name="beforeMethod" is-config="true" duration-ms="28" started-at="2020-05-27T13:05:03 IST" finished-at="2020-05-27T13:05:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_validateoutputDateInFormat()[pri:1, instance:com.task.automation.test.HomeScreen@4b1c1ea0]" name="TC_validateoutputDateInFormat" duration-ms="5513" started-at="2020-05-27T13:05:03 IST" description="Verify date in format 01-01-2020" finished-at="2020-05-27T13:05:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_validateoutputDateInFormat -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.task.automation.test.HomeScreen@4b1c1ea0]" name="afterMethod" is-config="true" duration-ms="10429" started-at="2020-05-27T13:05:09 IST" finished-at="2020-05-27T13:05:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_validateoutputDateInFormat status=SUCCESS method=HomeScreen.TC_validateoutputDateInFormat()[pri:1, instance:com.task.automation.test.HomeScreen@4b1c1ea0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/><a href='C:\Users\gs-2181\eclipse-workspace\TaskPropin\.\target\surefire-reports\screenshots\TC_validateoutputDateInFormat_1id1di8uhzvrw.png'>View Screenshot</a><br/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.task.automation.test.HomeScreen@4b1c1ea0]" name="afterTest" is-config="true" duration-ms="752" started-at="2020-05-27T13:05:19 IST" finished-at="2020-05-27T13:05:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.task.automation.test.HomeScreen@4b1c1ea0]" name="endReport" is-config="true" duration-ms="312" started-at="2020-05-27T13:05:20 IST" finished-at="2020-05-27T13:05:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.task.automation.test.HomeScreen -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
